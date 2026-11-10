@@ -8,7 +8,7 @@
 
 ## Strukt AI
 
-Strukt AI turns a 2D floor plan into a furnished 3D home you can walk through. It has **9,000+ users**.
+Strukt AI turns a 2D floor plan into a furnished 3D home you can walk through.
 
 You can edit the plan on a 2D canvas, then export to Blender, SketchUp or Revit. A photo of a piece of furniture becomes a 3D model, and you can render images, bake full houses and walk through the result.
 
